@@ -10,7 +10,7 @@ function getRandom(max) {
 
 getRandom(100)
 
-while(tentati < 5){
+while(tentativi < 5){
     let colpo = prompt("Prova a indovinare il numero!")
 
     while(colpo === null || isNaN(colpo)) {
