@@ -1,9 +1,8 @@
-#guessbutt{
-    background-color: #3AE3A8;
+#guess{
+    background-color: white;
     color: black;
     font-weight: bolder;
-    font-size: 24px;
-    text-align: center middle;
+    text-align: center;
     border-radius: 5px;
     border: 0px;
     width: 350px;

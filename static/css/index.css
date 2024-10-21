@@ -1,18 +1,24 @@
 @import  "button.css";
 @import "numeri.css";
+@import "list.css";
+@import "title.css";
+
 
 body{
-    background-color: brown;
-    text-align: center;
+    background-color: #CCFFC5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     margin: 0;
     padding: 0;
 }
 
-header{
+h1{
     font-weight: bolder;
 }
 
 
 p{
-    font-style: italic;
+    font-style: oblique;
 }
